@@ -59,32 +59,6 @@
   background: transparent !important;
 }
 /**transparent part LVL II**/
-/*small profile modal*/
-.theme-dark .userPopout-2j1gM4 {
-  background-color: rgba(0, 0, 0, 0.4);
-  backdrop-filter: blur(4px);
-}
-.theme-dark .footer-3naVBw {
-  background-color: rgba(0, 0, 0, 0) !important;
-}
-.theme-dark .avatar-2Vndt_ {
-  border: 6px solid transparent;
-  background-color: transparent;
-}
-.theme-dark .bodyInnerWrapper-2bQs1k {
-  background: transparent;
-}
-/*small profile modal 2*/
-.avatar-2OC07D {
-  background: none;
-  box-shadow: none !important;
-}
-.avatarHint__8e5b9 foreignObject {
-  mask: none;
-}
-.avatarHintInner__3d1c9 {
-  border-radius: 50px;
-}
 /*bd editor titlebar*/
 .theme-dark .floating-window-titlebar {
   background-color: rgba(0, 0, 0, 0.575);
